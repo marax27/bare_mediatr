@@ -1,3 +1,4 @@
 # bare_mediatr
+## Minimalist MediatR example usage in 50 lines.
 
-A minimalist introduction to MediatR, with a pinch of CQRS.
+A minimalist example of [MediatR](https://github.com/jbogard/MediatR) usage, in a C# console application.
